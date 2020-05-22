@@ -1,0 +1,80 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/ca0412ab/
+0	package.json	/^      "plugin:vue\/essential",$/;"	s	array:eslintConfig.extends
+0	package.json	/^    "> 1%",$/;"	s	array:browserslist
+1	package.json	/^      "eslint:recommended",$/;"	s	array:eslintConfig.extends
+1	package.json	/^    "last 2 versions"$/;"	s	array:browserslist
+2	package.json	/^      "@vue\/prettier"$/;"	s	array:eslintConfig.extends
+@mdi/font	package.json	/^    "@mdi\/font": "^3.6.95",$/;"	s	object:dependencies
+@vue/cli-plugin-babel	package.json	/^    "@vue\/cli-plugin-babel": "~4.2.0",$/;"	s	object:devDependencies
+@vue/cli-plugin-eslint	package.json	/^    "@vue\/cli-plugin-eslint": "~4.2.0",$/;"	s	object:devDependencies
+@vue/cli-plugin-router	package.json	/^    "@vue\/cli-plugin-router": "~4.2.0",$/;"	s	object:devDependencies
+@vue/cli-plugin-vuex	package.json	/^    "@vue\/cli-plugin-vuex": "~4.2.0",$/;"	s	object:devDependencies
+@vue/cli-service	package.json	/^    "@vue\/cli-service": "~4.2.0",$/;"	s	object:devDependencies
+@vue/eslint-config-prettier	package.json	/^    "@vue\/eslint-config-prettier": "^6.0.0",$/;"	s	object:devDependencies
+Compiles and hot-reloads for development	README.md	/^### Compiles and hot-reloads for development$/;"	S	section:meal-app""Project setup
+Compiles and minifies for production	README.md	/^### Compiles and minifies for production$/;"	S	section:meal-app""Project setup
+Customize configuration	README.md	/^### Customize configuration$/;"	S	section:meal-app""Project setup
+Lints and fixes files	README.md	/^### Lints and fixes files$/;"	S	section:meal-app""Project setup
+Project setup	README.md	/^## Project setup$/;"	s	chapter:meal-app
+apiKey	src/firebase/index.js	/^    apiKey: "AIzaSyDI2qETDf4kjroYCPtJ0j2WuIa_xVAW4Xw",$/;"	p	class:config
+app	public/index.html	/^    <div id="app"><\/div>$/;"	I
+appId	src/firebase/index.js	/^    appId: "1:932889318308:web:e9b0aff1d69009531f2731"$/;"	p	class:config
+authDomain	src/firebase/index.js	/^    authDomain: "vuemealprep.firebaseapp.com",$/;"	p	class:config
+axios	package.json	/^    "axios": "^0.19.2",$/;"	s	object:dependencies
+babel-eslint	package.json	/^    "babel-eslint": "^10.0.3",$/;"	s	object:devDependencies
+browserslist	package.json	/^  "browserslist": [$/;"	a
+build	package.json	/^    "build": "vue-cli-service build",$/;"	s	object:scripts
+config	src/firebase/index.js	/^const config = {$/;"	c
+core-js	package.json	/^    "core-js": "^3.6.4",$/;"	s	object:dependencies
+databaseURL	src/firebase/index.js	/^    databaseURL: "https:\/\/vuemealprep.firebaseio.com",$/;"	p	class:config
+dependencies	package.json	/^  "dependencies": {$/;"	o
+devDependencies	package.json	/^  "devDependencies": {$/;"	o
+env	package.json	/^    "env": {$/;"	o	object:eslintConfig
+eslint	package.json	/^    "eslint": "^6.7.2",$/;"	s	object:devDependencies
+eslint-plugin-prettier	package.json	/^    "eslint-plugin-prettier": "^3.1.1",$/;"	s	object:devDependencies
+eslint-plugin-vue	package.json	/^    "eslint-plugin-vue": "^6.1.2",$/;"	s	object:devDependencies
+eslintConfig	package.json	/^  "eslintConfig": {$/;"	o
+exports	babel.config.js	/^module.exports = {$/;"	c	class:module
+exports	vue.config.js	/^module.exports = {$/;"	c	class:module
+extends	package.json	/^    "extends": [$/;"	a	object:eslintConfig
+firebase	package.json	/^    "firebase": "^7.13.0",$/;"	s	object:dependencies
+lint	package.json	/^    "lint": "vue-cli-service lint"$/;"	s	object:scripts
+meal-app	README.md	/^# meal-app$/;"	c
+messagingSenderId	src/firebase/index.js	/^    messagingSenderId: "932889318308",$/;"	p	class:config
+name	package.json	/^  "name": "meal-app",$/;"	s
+node	package.json	/^      "node": true$/;"	b	object:eslintConfig.env
+parser	package.json	/^      "parser": "babel-eslint"$/;"	s	object:eslintConfig.parserOptions
+parserOptions	package.json	/^    "parserOptions": {$/;"	o	object:eslintConfig
+presets	babel.config.js	/^    presets: ["@vue\/cli-plugin-babel\/preset"]$/;"	p	class:module.exports
+prettier	package.json	/^    "prettier": "^1.19.1",$/;"	s	object:devDependencies
+prettier	package.json	/^  "prettier": {$/;"	o
+private	package.json	/^  "private": true,$/;"	b
+projectId	src/firebase/index.js	/^    projectId: "vuemealprep",$/;"	p	class:config
+roboto-fontface	package.json	/^    "roboto-fontface": "*",$/;"	s	object:dependencies
+root	package.json	/^    "root": true,$/;"	b	object:eslintConfig
+router	src/router/index.js	/^const router = new VueRouter({$/;"	C
+routes	src/router/index.js	/^const routes = [$/;"	C
+rules	package.json	/^    "rules": {}$/;"	o	object:eslintConfig
+sass	package.json	/^    "sass": "^1.19.0",$/;"	s	object:devDependencies
+sass-loader	package.json	/^    "sass-loader": "^8.0.0",$/;"	s	object:devDependencies
+scripts	package.json	/^  "scripts": {$/;"	o
+serve	package.json	/^    "serve": "vue-cli-service serve",$/;"	s	object:scripts
+storageBucket	src/firebase/index.js	/^    storageBucket: "vuemealprep.appspot.com",$/;"	p	class:config
+tabWidth	package.json	/^    "tabWidth": 4$/;"	n	object:prettier
+transpileDependencies	vue.config.js	/^    transpileDependencies: ["vuetify"]$/;"	p	class:module.exports
+version	package.json	/^  "version": "0.1.0",$/;"	s
+vue	package.json	/^    "vue": "^2.6.11",$/;"	s	object:dependencies
+vue-cli-plugin-vuetify	package.json	/^    "vue-cli-plugin-vuetify": "~2.0.5",$/;"	s	object:devDependencies
+vue-router	package.json	/^    "vue-router": "^3.1.5",$/;"	s	object:dependencies
+vue-template-compiler	package.json	/^    "vue-template-compiler": "^2.6.11",$/;"	s	object:devDependencies
+vuetify	package.json	/^    "vuetify": "^2.2.11",$/;"	s	object:dependencies
+vuetify-loader	package.json	/^    "vuetify-loader": "^1.3.0"$/;"	s	object:devDependencies
+vuex	package.json	/^    "vuex": "^3.1.2"$/;"	s	object:dependencies
